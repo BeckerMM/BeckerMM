@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá, eu sou Matheus Becker! 👋
 
-<!--
-**BeckerMM/BeckerMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um entusiasta da tecnologia em constante busca por conhecimento e apaixonado por desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Tecnologias que eu trabalho
+- Java
+- JavaScript
+- React
+- Next.js
+- Angular
+- MySQL
+- Spring Boot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Entre em contato
+Se você quiser entrar em contato comigo para discutir colaborações, oportunidades de trabalho ou apenas para bater um papo, você pode me encontrar nas seguintes plataformas:
+
+- [LinkedIn]: www.linkedin.com/in/matheus-becker-74a00a295
+- E-mail: matheus06jgs@gmail.com
+
